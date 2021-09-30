@@ -25,4 +25,3 @@ Work load on municipality can be reduced with the help of this CNN based project
 
 5. MobileNet is chosen becuse of it's accuracy and being 32 times lighter than VGG16.
 
-## Implementation
